@@ -207,7 +207,7 @@ The funding requested in this proposal is strictly tied to the strategic value, 
 * **Acceleration Bonus:** If Milestone 5, 6 acceptance criteria are met, audited, and approved 30 days prior to the Estimated Delivery date, i.e., October 1st, a +20% bonus of the payout of those milestones will be awarded (320.000 CC).
 * **Late Penalty:** For every 15 days of delay beyond the estimated delivery dates for any milestone, the payout for that specific milestone will be reduced by 5%, capped at a maximum 20% penalty per milestone.
 
-**Milestone 6 Delivery Fallback:** Blockdaemon is responsible for delivering its 60% share of Milestone 6 by the target deadline (November 30th 2026). If Blockdaemon has not delivered by that deadline, it is granted a 30-day grace period (until December 30th 2026). If the milestone's acceptance criteria are still not met after the grace period, Digital Asset may take over and complete the Milestone 6 work itself and receive the full Milestone 6 funding reduced by 10% for the delay (720.000 CC instead of 800.000 CC). In that case Blockdaemon's 480.000 CC share is forfeited, and the standard Late Penalty above does not apply on top of the 10% reduction.
+**Milestone 6 Delivery Fallback:** Blockdaemon is responsible for delivering its 60% share of Milestone 6 by the target deadline (November 30th 2026). If Blockdaemon has not delivered by that deadline, DA is granted a 30-day grace period (until December 30th 2026) to deliver the Milestone and receive the full Milestone 6 funding reduced by 10% for the delay (720.000 CC instead of 800.000 CC). In that case Blockdaemon's 480.000 CC share is forfeited, and the standard Late Penalty above does not apply on top of the 10% reduction.
 
 ---
 
