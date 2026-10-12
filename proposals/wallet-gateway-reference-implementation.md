@@ -1,6 +1,7 @@
 # Development Fund Proposal: Wallet Gateway Reference Implementation 
 
 * **Authors**: Digital Asset - Stephan (Product), Marc Juchli (Engineering, Wallets) 
+* **Delivery Partner (Milestone 6)**: Blockdaemon
 * **Status**: Submitted 
 * **Created**: 19.03.2026 
 * **Category**: Critical Infrastructure / Developer Tooling 
@@ -159,6 +160,7 @@ Implementing granular, privacy-preserving data access controls between the untru
 
 ### **Milestone 6: Transaction Visualization & Write Review Standard** 
 Standardizing human-in-the-loop transaction approvals and solving the cryptographic Clear Signing challenge.
+* **Delivery Partner & Reward Split:** Milestone 6 is delivered by Blockdaemon as delivery partner, in collaboration with Digital Asset. The Milestone 6 reward is split 60% to Blockdaemon (480.000 CC) and 40% to Digital Asset (320.000 CC). See *Milestone 6 Delivery Fallback* in Section 5 should the deadline be missed.
 * **TX Schema Standard:** Definition of a standardized schema for transaction UI rendering. 
   * *Acceptance:* Publication of the schema documentation and verifiable adoption in the Gateway's parsing logic.
 * **TX Visualization:** Delivery of modular TX Visualizer components handling Read Connect and Write Reviews, addressing the need for Clear Signing. 
@@ -195,7 +197,7 @@ The funding requested in this proposal is strictly tied to the strategic value, 
 | **Milestone 3: Local Deployment Capability and Browser Engine:** | August 31st 2026 | 800.000 CC |
 | **Milestone 4: Decentralized Identity (OIDC)** | September 30th 2026 | 1.600.000 CC |
 | **Milestone 5: Access Rights Management** | November 30th 2026 | 800.000 CC |
-| **Milestone 6: Transaction Visualization & Write Review Standard** | November 30th 2026 | 800.000 CC |
+| **Milestone 6: Transaction Visualization & Write Review Standard** | November 30th 2026 | 800.000 CC (60% Blockdaemon: 480.000 CC / 40% Digital Asset: 320.000 CC) |
 | **Milestone 7: Institutional Adoption Bounty** | December 31st 2027 | 1.000.000 CC |
 | **Total** | | **6.700.000 CC** | 
 
@@ -204,6 +206,8 @@ The funding requested in this proposal is strictly tied to the strategic value, 
 **Timeline Accountability (SLA Penalties & Acceleration):** 
 * **Acceleration Bonus:** If Milestone 5, 6 acceptance criteria are met, audited, and approved 30 days prior to the Estimated Delivery date, i.e., October 1st, a +20% bonus of the payout of those milestones will be awarded (320.000 CC).
 * **Late Penalty:** For every 15 days of delay beyond the estimated delivery dates for any milestone, the payout for that specific milestone will be reduced by 5%, capped at a maximum 20% penalty per milestone.
+
+**Milestone 6 Delivery Fallback:** Blockdaemon is responsible for delivering its 60% share of Milestone 6 by the target deadline (November 30th 2026). If Blockdaemon has not delivered by that deadline, DA is granted a 30-day grace period (until December 30th 2026) to deliver the Milestone and receive the full Milestone 6 funding reduced by 10% for the delay (720.000 CC instead of 800.000 CC). In that case Blockdaemon's 480.000 CC share is forfeited, and the standard Late Penalty above does not apply on top of the 10% reduction.
 
 ---
 
